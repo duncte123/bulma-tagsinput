@@ -1057,8 +1057,6 @@ export default class BulmaTagsInput extends Component {
         }
     }
 
-    _loadingSource = false;
-
     /**
      * Input Keypress event handler
      *
